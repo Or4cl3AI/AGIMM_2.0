@@ -1,0 +1,18 @@
+repo_name: Or4cl3AI/AGIMM_2.0
+report_id: fd7be5d6f7be70a650ff43d3fc410790
+repo_type: Public
+timestamp: '2023-11-24T01:57:06+00:00'
+requested_by: Or4cl3AI
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
